@@ -18,8 +18,8 @@ Documenting my problem-solving practice as I prepare for technical interviews.
 ## Solutions by Difficulty
 
 ### Easy
-- [Two Sum](./code_xxx.md)
-- [Valid Palindrome](./code_xxx.md)
+- [Merge Strings](./code_1768_Merge_Strings.md)
+- [Reverse String](./code_344_reverse_string.md)
 
 ### Medium
 - [Reverse String](./code_344_reverse_string.md)
